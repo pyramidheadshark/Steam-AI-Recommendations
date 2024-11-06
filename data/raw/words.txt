@@ -1,492 +1,492 @@
-mythology
-local multiplayer
-mini golf
-comic book
-great soundtrack
-real-time with pause
-jump scare
-nostalgia
-solitaire
-outbreak sim
-extraction shooter
-kickstarter
-lovecraftian
-trackir
-loot
-class-based
-benchmark
-traditional roguelike
-feature film
-strategy rpg
-snowboarding
-real-time
-combat racing
-job simulator
-gun customization
-dark fantasy
-multi-player
-video production
-dog
-partial controller support
-political
-cinematic
-hentai
-investigation
-horses
-well-written
-steam turn notifications
-auto battler
-superhero
-captions available
-trivia
-roguelike deckbuilder
-metroidvania
-motocross
-steam cloud
-family sharing
-horror
-multiplayer
-trading
-boomer shooter
-automobile sim
-funny
-education
-villain protagonist
-skating
-third person
-psychedelic
-party-based rpg
-dark comedy
-retro
-online co-op
-web publishing
-tower defense
-dark humor
-indie
-sports
-gore
-hack and slash
-alternate history
-time manipulation
-spaceships
-futuristic
-otome
-turn-based combat
-rogue-like
-linear
-musou
-transportation
-difficult
-rugby
-mods (require hl2)
-puzzle-platformer
-action roguelike
-6dof
-full controller support
-open world survival craft
-walking simulator
-touch-friendly
-artificial intelligence
-visual novel
-shooter
-design & illustration
-gambling
-movie
-team-based
-snow
-tile-matching
-beat 'em up
-character customization
-werewolves
-steam workshop
-side scroller
-space
-massively multiplayer
-strategy
-driving
-fps
-software training
-philosophical
-sailing
-nature
-2d platformer
-photo editing
-crpg
-vr support
-jet
-pixel graphics
-game development
-valve anti-cheat enabled
-stats
-gaming
-agriculture
-runner
-escape room
-nudity
-twin stick shooter
-creature collector
-2d fighter
-2d
-typing
-word game
-1990's
-includes source sdk
-archery
-colony sim
-reboot
-tracked motion controller support
-card battler
-base-building
-dungeon crawler
-accounting
-interactive fiction
-realistic
-platformer
-games workshop
-action rpg
-hobby sim
-electronic
-family friendly
-remote play on phone
-foreign
-tactical
-episodic
-arcade
-asynchronous multiplayer
-life sim
-bowling
 hidden object
-spectacle fighter
-board game
-silent protagonist
-text-based
-sokoban
-vr
-world war i
-steam machine
-relaxing
-experimental
-noir
-controller
-football (soccer)
-football
-electronic music
-unforgiving
-sci-fi
-documentary
-party
-shop keeper
-grid-based movement
-replay value
-flight
-score attack
-sandbox
-steamvr collectibles
-ambient
-stylized
-capitalism
-fantasy
-city builder
-lemmings
-top-down
-god game
-magic
-quick-time events
-free to play
-world war ii
-underwater
-atv
-cross-platform multiplayer
-volleyball
-jrpg
-tanks
-dystopian
-basketball
-music-based procedural generation
-remote play on tv
-hand-drawn
-naval
-cooking
-trading card game
-economy
-match 3
-motorbike
-1980s
-puzzle
-tracked controller support
-isometric
-atmospheric
-free to play
-conversation
-adventure
-rome
-animation & modeling
-third-person shooter
-wholesome
-addictive
-remake
-crowdfunded
-mod
-2.5d
-farming
-modern
-hdr available
-fishing
-early access
-crime
-dynamic narration
-action-adventure
-soundtrack
-heist
-collectathon
-mouse only
-hero shooter
-swordplay
-competitive
-cute
-party game
-immersive
-moddable
-submarine
-minigames
-remote play together
-lgbtq+
-mars
-science
-lego
-battle royale
-historical
-fighting
-boxing
-action
-chess
-co-op campaign
-rogue-lite
-programming
-online pvp
-demons
-local co-op
-rock music
-stealth
-souls-like
-inventory management
-hex grid
-shared/split screen pvp
-masterpiece
-thriller
-4 player local
-online co-op
-cold war
-detective
-space sim
-steam achievements
-mahjong
-psychological
-skateboarding
-shared/split screen
-hockey
-satire
-golf
-3d fighter
-dragons
-fox
-underground
-automation
-includes level editor
-farming sim
-parody
-vr supported
-wrestling
-simulation
-medieval
-exploration
-e-sports
-3d
-rhythm
-gamemaker
-destruction
-management
-single-player
-political sim
-narrative
-cricket
-shared/split screen co-op
-tennis
-vikings
-cartoony
+crpg
 real time tactics
-bullet time
-mature
-cats
-pvp
-beautiful
-trains
-steam leaderboards
-psychological horror
-fast-paced
-top-down shooter
-supernatural
-war
-lan co-op
-hacking
-pool
-music
-abstract
-transhumanism
-rpg
-zombies
-mods
-experience
-tabletop
-survival horror
-offroad
-snooker
-memes
-arena shooter
-fmv
-deckbuilding
-logic
-mechs
-procedural generation
-boss rush
-turn-based strategy
-old school
-gothic
-multiple endings
-mining
-baseball
-turn-based
-mmorpg
-intentionally awkward controls
-narration
-birds
-minimalist
-split screen
-warhammer 40k
-rts
-skiing
-based on a novel
-dungeons & dragons
-elf
-instrumental music
-drama
-vehicular combat
-commentary available
-military
-story rich
-spelling
-cartoon
-diplomacy
-roguevania
-bmx
-asymmetric vr
-audio production
-mmo
-violent
-sexual content
-anime
-8-bit music
-remote play on tablet
-co-op
-tutorial
-mystery dungeon
-bullet hell
-dating sim
-resource management
-looter shooter
-open world
-lan pvp
-perma death
-vampire
-soccer
-nsfw
-pinball
-casual
-vr only
-aliens
-character action game
-physics
-dark
-idler
-cyberpunk
-choices matter
-4x
-cycling
-time travel
-choose your own adventure
-tactical rpg
-on-rails shooter
-crafting
-illuminati
-nonlinear
-turn-based tactics
-football (american)
-sniper
-faith
-ninja
-shoot 'em up
-robots
-voxel
-naval combat
-steam timeline
-conspiracy
-3d vision
-in-app purchases
-building
-short
-parkour
-female protagonist
-pirates
-survival
-comedy
-moba
-point & click
-politics
 lore-rich
-assassin
-voice control
-steam trading cards
-social deduction
-epic
-post-apocalyptic
-software
-america
-cozy
-dinosaurs
-romance
-western
-immersive sim
-precision platformer
-steampunk
-level editor
-rpgmaker
-first-person
-martial arts
-clicker
-colorful
-medical sim
-singleplayer
-action rts
-surreal
-dwarf
-wargame
-pve
-cult classic
-hardware
-time management
-grand strategy
-time attack
-card game
-sequel
-utilities
-3d platformer
-hunting
+electronic
+conspiracy
+magic
+typing
+robots
+deckbuilding
+vr support
+intentionally awkward controls
+third-person shooter
 emotional
-mystery
-blood
-racing
-combat
+mechs
+cooking
+jrpg
+looter shooter
+4x
+game development
+hockey
+spectacle fighter
+steam cloud
+text-based
+volleyball
+gambling
+precision platformer
+skating
+party game
+cross-platform multiplayer
+shared/split screen pvp
+boxing
+open world survival craft
+shooter
+e-sports
+sci-fi
+minimalist
+sokoban
+management
+cute
+vehicular combat
+gaming
+traditional roguelike
+roguevania
+kickstarter
+open world
+mod
+dark comedy
+action rts
+rpg
+remote play on tv
+comedy
+dark fantasy
+cozy
+underground
+unforgiving
+hardware
+side scroller
+romance
+education
+minigames
+3d fighter
+top-down
+asynchronous multiplayer
+valve anti-cheat enabled
+match 3
+bowling
+dynamic narration
+beat 'em up
+strategy rpg
+3d platformer
+investigation
+base-building
+adventure
+physics
+outbreak sim
+pve
+nudity
+roguelike deckbuilder
+battle royale
+steam timeline
+snow
 coding
-360 video
-classic
+musou
+trivia
+racing
+bmx
+relaxing
+simulation
+software training
+hex grid
+benchmark
+realistic
+mystery
+arcade
+hunting
+football
+shop keeper
+social deduction
+masterpiece
+space sim
+post-apocalyptic
+abstract
+mars
+rock music
+character action game
+blood
+golf
+grid-based movement
+sniper
+gun customization
+action roguelike
+farming sim
+feature film
+elf
+co-op
+time manipulation
+vikings
+politics
+nonlinear
+narrative
+warhammer 40k
+moba
+motocross
+episodic
+solitaire
+class-based
+demons
+dwarf
+nostalgia
+spaceships
+otome
+video production
+stats
+time management
+web publishing
+alternate history
+parkour
+horses
+motorbike
+rogue-lite
+resource management
+cold war
+character customization
+wrestling
+visual novel
+steam machine
+mature
+6dof
+fishing
+naval
+includes level editor
+party-based rpg
+psychedelic
+online co-op
+football (soccer)
+detective
+short
 bikes
+split screen
+gothic
+early access
+atmospheric
+turn-based tactics
+isometric
+casual
+foreign
+steam achievements
+city builder
+pixel graphics
+birds
+surreal
+dog
+idler
+offroad
+card game
+level editor
+hack and slash
+dark humor
+1980s
+mining
+shared/split screen
+8-bit music
+submarine
+local co-op
+sports
+funny
+dark
+steam workshop
+online pvp
+crafting
+trading
+instrumental music
+in-app purchases
+drama
+lgbtq+
+destruction
+lan co-op
+vr supported
+mahjong
+audio production
+turn-based combat
+cricket
+survival
+snooker
+turn-based
+pirates
+remote play on phone
+world war ii
+sandbox
+parody
+supernatural
+transportation
+platformer
+tactical rpg
+games workshop
+choices matter
+psychological
+nsfw
+based on a novel
+war
+jet
+commentary available
+fps
+fighting
+psychological horror
+trackir
+story rich
+top-down shooter
+utilities
+grand strategy
+lemmings
+rome
+cinematic
+hobby sim
+rhythm
+real-time
+experience
+remake
+arena shooter
+collectathon
+cyberpunk
+automobile sim
+vr
+partial controller support
+football (american)
+gamemaker
+spelling
+rpgmaker
+walking simulator
+strategy
+conversation
+singleplayer
+pool
+steam leaderboards
+action
+memes
+photo editing
+2.5d
+world war i
+2d platformer
+turn-based strategy
+first-person
+2d
+mods (require hl2)
+silent protagonist
+hand-drawn
+fox
+indie
+zombies
+life sim
+electronic music
+sequel
+science
+puzzle-platformer
+steamvr collectibles
+music
+escape room
+noir
+voxel
+crowdfunded
+basketball
+pvp
+martial arts
+board game
+colorful
+ninja
+fmv
+addictive
+logic
+farming
+controller
+wholesome
+steampunk
+animation & modeling
+rts
+creature collector
+satire
+captions available
+retro
+artificial intelligence
+third person
+military
+puzzle
+tracked motion controller support
+wargame
+mystery dungeon
+god game
+dinosaurs
+difficult
+accounting
+jump scare
+swordplay
+classic
+beautiful
+rugby
+tutorial
+villain protagonist
+includes source sdk
+automation
+co-op campaign
+full controller support
+epic
+1990's
+tanks
+software
+choose your own adventure
+boss rush
+reboot
+shoot 'em up
+3d
+lego
+360 video
+gore
+movie
+immersive sim
+programming
+team-based
+political
+cartoony
+time travel
+steam trading cards
+experimental
+party
+hero shooter
+multi-player
+hdr available
+rogue-like
+quick-time events
+skateboarding
+sailing
+moddable
+single-player
+philosophical
+mouse only
+bullet hell
+cats
+lan pvp
+documentary
+driving
+narration
+tennis
+word game
+dungeon crawler
+dating sim
+multiple endings
+card battler
+fast-paced
+boomer shooter
+atv
+naval combat
+trains
+tower defense
+hacking
+tile-matching
+futuristic
+assassin
+family friendly
+soccer
+historical
+online co-op
+werewolves
+modern
+dungeons & dragons
+aliens
+pinball
+procedural generation
+capitalism
+sexual content
+flight
+3d vision
+2d fighter
+perma death
+point & click
+loot
+job simulator
+souls-like
+mmo
+ambient
+touch-friendly
+political sim
+fantasy
+crime
+stealth
+transhumanism
+asymmetric vr
+well-written
+twin stick shooter
+vampire
+runner
+america
+space
+cycling
+local multiplayer
+4 player local
+interactive fiction
+superhero
+music-based procedural generation
+metroidvania
+illuminati
+extraction shooter
+lovecraftian
+soundtrack
+economy
+inventory management
+design & illustration
+on-rails shooter
+female protagonist
+underwater
+old school
+survival horror
+mini golf
+medical sim
+colony sim
+bullet time
+tracked controller support
+agriculture
+diplomacy
+family sharing
+chess
+cult classic
+massively multiplayer
+shared/split screen co-op
+heist
+steam turn notifications
+exploration
+horror
+building
+time attack
+tactical
+action-adventure
+combat
+thriller
+mods
+multiplayer
+mythology
+action rpg
+vr only
+linear
+combat racing
+baseball
+snowboarding
+archery
+score attack
+clicker
+great soundtrack
+anime
+nature
+free to play
+free to play
+skiing
+immersive
+mmorpg
+real-time with pause
+trading card game
+tabletop
+hentai
+western
+voice control
+comic book
+remote play on tablet
+faith
+dystopian
+stylized
+competitive
+remote play together
+replay value
+auto battler
+dragons
+violent
+medieval
+cartoon
